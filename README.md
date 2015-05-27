@@ -12,7 +12,7 @@ Please report any issue you will encounter.
 ## Installation
 
 
-    $ sudo rake isntall 
+    $ sudo rake install 
     $ sudo vagrant plugin install vagrant-guest-netbsd
 
 ## Known limitations with the VirtualBox provider
